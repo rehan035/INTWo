@@ -1,0 +1,6 @@
+{
+  "name": "INTWO SPORTS",
+  "description": "International performance goalkeeper gear, padded armor, football teamwear, and OEM manufacturing in Sialkot, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
